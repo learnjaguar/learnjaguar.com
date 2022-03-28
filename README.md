@@ -1,1 +1,1 @@
-# learnjaguar.com
+# learnjaguar.github.io
